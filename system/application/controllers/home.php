@@ -10,7 +10,7 @@ class Home extends Controller {
 	public function index()
 	{
 
-		$data['meta']['pagetitle'] = "This is the home page";
+		$data['meta']['pagetitle'] = "EmpireMaps - Historical maps of ancient empires";
 
 		// set page template properties
 		$data['page'] = array(

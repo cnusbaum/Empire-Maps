@@ -37,8 +37,8 @@
 	<body>
 
 		<div id="container">
-			<header>
-				
+			<header class="clearfix">
+				<div id="logo"><span class="logoFirst">Empire</span><span class="logoLast">Maps</span></div>
 			</header>
 
 			<div id="main">

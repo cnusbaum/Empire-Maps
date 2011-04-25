@@ -11,6 +11,8 @@
 |	http://example.com/
 |
 */
+
+//$config['base_url']	= "http://pixelrex.com";
 $config['base_url']	= "empiremaps.local";
 
 /*

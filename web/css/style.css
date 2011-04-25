@@ -225,10 +225,54 @@ button {  width: auto; overflow: visible; }
  */
 
 
+@font-face {
+	font-family: 'Roman-Caps';
+	src: url('../font/Roman_SD.ttf')  format('truetype')
+}
+
+body { 
+	background-color: #f0eed9;
+	text-align: center;
+	height: 100%;
+}
+
+#container { 
+	width: 100%;
+	margin: 0 auto;
+	text-align: left;
+}
+
+header { 
+	border-top: 5px solid #818169;
+	border-bottom: 5px solid #818169;
+	overflow: hidden;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+
+#logo {
+	font-family: Roman-Caps, Georgia, serif;
+	font-weight: bold;
+	font-size: 40px;
+	text-transform: uppercase;
+	-moz-text-shadow: 2px 2px 2px #ccc;
+	-webkit-text-shadow: 2px 2px 2px #ccc;
+	text-shadow: 2px 2px 2px #ccc;
+}
+
+.logoFirst {
+	color: #946f52;
+}
+
+
+.logoLast {
+	color: #681e25;	
+}
+
 
 #map_canvas { 
-	width: 500px;
-	height: 500px;
+	width: 80%;
+	height: 400px;
 }
 
 

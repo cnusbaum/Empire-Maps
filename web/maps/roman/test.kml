@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>44bc.kml</name>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff009bff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>660023ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff009bff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>660023ff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff009bff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>660023ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff009bff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>660023ff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff009bff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>660023ff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff009bff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>660023ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff009bff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>660023ff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff009bff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>660023ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff009bff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>660023ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff009bff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>660023ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff009bff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>660023ff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin8</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin9">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff009bff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>660023ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff009bff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>660023ff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff009bff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>660023ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff009bff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>660023ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff009bff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>660023ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff009bff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>660023ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff009bff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>660023ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff009bff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>660023ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff009bff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>660023ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff009bff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>660023ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff009bff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>660023ff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Rome 44 BC</name>
+		<open>1</open>
+		<description>Rome at the death of Julius Caesar (March 15th 44 BC)</description>
+		<Placemark>
+			<name>Roman Empire 44 BC</name>
+			<styleUrl>#msn_ylw-pushpin8</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							36.0922092480495,36.9147949688575,0 36.15027128788496,36.76763668291765,0 35.80200783418142,36.33643587525866,0 35.96705265956098,36.01564822767023,0 35.83894189583314,35.42811194357007,0 35.88963863366705,34.65747999150526,0 35.10956577306379,33.11158233618848,0 35.88061551076095,33.34916172143748,0 35.9387141151039,32.76866417330407,0 37.49951811025488,32.7273506693783,0 38.6842269290784,33.13934919523175,0 40.94520258231268,34.41028953641375,0 40.17044929402438,35.2743961745442,0 38.15661955626376,36.47160751833441,0 38.1084981827731,36.66595247347518,0 37.43935804162371,37.2785366166701,0 37.63170473761907,37.63770957135373,0 36.21743451586317,37.14031750172676,0 36.58740647498803,38.26081981606796,0 36.13905749996577,38.37397579625775,0 33.84304385446523,37.38968000281557,0 32.4956955509558,37.22456383812794,0 31.74199259986669,37.26815768604568,0 31.13851064041696,36.856687976925,0 32.12461945056446,36.36810039281987,0 32.65800430499258,35.99500086870741,0 33.55322644049594,36.08539904047079,0 34.14261493862509,36.35870037744359,0 34.61365204977088,36.80449507220053,0 35.33999664440868,36.51045911477806,0 36.0922092480495,36.9147949688575,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Roman Empire 44 BC</name>
+			<styleUrl>#msn_ylw-pushpin9</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							27.12421459814185,40.44240507039105,0 26.22969869177395,40.20784845353008,0 26.15988549561242,39.45214052891999,0 25.9610298003573,39.23451938507203,0 25.93875459056316,38.53286929406321,0 26.26950476866002,37.61173322653669,0 27.75208593288905,35.92734404601943,0 28.22772749763554,36.4046422480531,0 28.55679065783515,36.85717623243755,0 29.8863766964013,38.4969415188443,0 29.50974387733856,39.23460203867484,0 30.54258494467748,39.73937055359807,0 31.75670772173378,40.15731306154786,0 32.83086553686001,39.63700581862871,0 34.41774936358728,40.42066460677522,0 35.87066844873816,39.74910754478805,0 37.56444316546759,39.6189943886513,0 38.61253887133725,39.35002698870996,0 39.50145251319307,40.31041096666912,0 40.70785374768606,41.09367008806932,0 39.54523636656202,41.06444371457282,0 38.57005074394772,40.91937586851137,0 36.71060605073075,41.35054272292095,0 35.05212839419693,42.11127929570787,0 33.34859590266128,42.01536505662652,0 31.55001236384451,41.35161783167113,0 29.18702268147057,41.2382597714692,0 28.99823618388344,41.03449242714882,0 29.34399209989078,40.77517935383872,0 28.86005035169599,40.62805009987855,0 28.22556713058797,40.40370142407166,0 27.44545617041712,40.42328562941003,0 27.12421459814185,40.44240507039105,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Roman Empire 44 BC</name>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							9.501461229241372,37.22141224590771,0 8.57744783906195,36.78690081101851,0 7.391595119724858,37.02306760397138,0 6.420492526877355,37.00631005680472,0 5.171339760606193,36.63225021886369,0 3.104156259772013,36.70095730163631,0 3.253068660505849,31.72243772104552,0 6.256844181882395,31.69689143152079,0 9.300241903581901,30.1657178009492,0 10.16356824210087,29.64267032581498,0 11.57640179602499,29.34510590477167,0 14.04632320083746,28.92964696483655,0 15.37417480488561,28.60621830484704,0 17.11610607879185,28.30849683455182,0 25.00228519511849,27.75726853609356,0 25.00376381421896,31.92667176439085,0 23.43890708339996,32.13935274451858,0 23.13033190861352,32.54682274384433,0 22.13966227933199,32.93831443843445,0 20.72965575395668,32.65729778326006,0 19.94316489713236,31.95122061512907,0 20.21932010847161,31.20668766284838,0 19.7511737457297,30.50725491225489,0 18.99971556561902,30.2959336690986,0 17.5807755788339,31.02718485581694,0 15.67860600158872,31.37442009002537,0 15.40560808133235,32.26035435786795,0 14.37507606486981,32.64645082906117,0 13.39191516496649,32.89145373104178,0 12.62765528871396,32.70349705248844,0 11.30006868552617,33.27635575268161,0 10.90401440458823,33.8867239157973,0 10.3754685577564,33.63156754725775,0 10.0603655866607,34.18112708547321,0 11.16007982058715,35.15640358801794,0 11.00831262893393,35.53781444212866,0 10.57315652943947,36.05731815720385,0 11.07838873637482,36.61780118997409,0 11.11159173340654,36.95791967599095,0 10.44688774619289,36.89221117959925,0 9.81144622053195,37.29546704686125,0 9.501461229241372,37.22141224590771,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Roman Empire 44 BC</name>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							1.595783292441686,39.13943188755705,0 1.235895128709192,38.92615823310328,0 1.475165713579929,38.62216269384115,0 1.595783292441686,39.13943188755705,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Roman Empire 44 BC</name>
+			<styleUrl>#msn_ylw-pushpin7</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							2.894908261375344,39.91377691545772,0 2.408118109364756,39.53987784329825,0 3.110123962878133,39.23636819828321,0 3.519975119079095,39.69603299163821,0 3.139505537017029,39.88748798773912,0 2.894908261375344,39.91377691545772,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Roman Empire 44 BC</name>
+			<styleUrl>#msn_ylw-pushpin6</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							4.339386730017178,39.7878616996318,0 4.129066145707563,40.06895631602271,0 3.753172109336469,40.01173665713603,0 4.339386730017178,39.7878616996318,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Roman Empire 44 BC</name>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							9.356640889009425,41.19289224985037,0 8.434143936328773,40.80272148351463,0 8.206846966320999,41.07442572137948,0 8.083799270903377,40.65075213462785,0 8.472639032698604,39.98134425442419,0 8.392439111471585,38.93218638066492,0 8.800596660775584,38.83941318646699,0 9.660429411274034,39.39282316102544,0 9.756615943249829,40.51326069703813,0 9.356640889009425,41.19289224985037,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Roman Empire 44 BC</name>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							9.403322683979408,43.05343666834516,0 8.529650228401003,42.40509593806747,0 8.769308819142491,41.53134323790051,0 9.19570952059912,41.3228217623928,0 9.560897802195466,42.05228550822275,0 9.403322683979408,43.05343666834516,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Roman Empire 44 BC</name>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-5.946622425727933,35.94844688245765,0 -5.136920712821088,36.22771719741459,0 -4.365446667330311,36.62874968481736,0 -2.009491622341928,36.71711347669122,0 -1.816345010954382,37.21529830518405,0 -0.8761053141673902,37.58628367841125,0 -0.4534923183617379,38.16375866931249,0 0.1503408464867184,38.71599608743811,0 -0.2969987708775035,39.33303154764872,0 0.9412333646237947,40.76284606546176,0 3.170816878662996,41.83520873752044,0 3.26119150232296,42.27524133932226,0 3.075886408790649,43.00560329597856,0 3.868592142413503,43.52704001935754,0 6.374320538762124,43.04533843948683,0 8.664964009487662,44.25049950558184,0 8.939651532879417,44.4211820865775,0 9.338072677359575,46.26834659282538,0 11.58861821037365,47.08438009810374,0 14.23174756285804,46.4200237595381,0 15.30548605957146,45.82716884283671,0 17.0094978259545,44.63047463092892,0 21.18712777629444,42.72785176701761,0 21.35502797602257,41.85435328710847,0 24.68031589954071,40.96574986335133,0 24.00471185214762,40.70924312564497,0 23.92393122469167,40.18006715888208,0 24.01892205807406,39.96003660397309,0 22.57196491572639,40.08655983094678,0 24.10450876617826,38.62142823235757,0 25.14396906737469,37.4508462127639,0 22.7158298555105,36.52617489749292,0 21.53256030775037,36.86099531254529,0 20.49173853308016,38.09500643145689,0 19.39948841703992,40.6229571631794,0 19.3784029732236,41.75848119624762,0 16.37997057675162,42.93088688542396,0 13.88141221839071,44.80590551992081,0 13.55054725542961,45.63941216476933,0 12.4623450286675,44.91490744412758,0 12.68276485434383,44.08965680591245,0 13.69642007233238,43.54411696261872,0 15.45970320961406,41.97713246695184,0 16.02591638815725,41.89979184219939,0 16.03404773546147,41.43826628415223,0 18.3377469521011,40.28266673667711,0 18.38651583440716,39.88235490301066,0 16.96069462619676,40.35246677737662,0 16.58140455147289,39.63628777042279,0 17.0456498511304,39.36380292902225,0 17.28949745583276,39.02790004064106,0 16.00914057907329,37.85479089710265,0 15.44895878898619,37.82532959940017,0 15.25318494279243,36.93859876574228,0 14.99426656928012,36.62766155430656,0 12.33551617457234,37.71561290180991,0 12.85209107704649,38.14469409425531,0 13.88450714912814,38.01354092013409,0 15.57194503173921,38.38111452159721,0 16.0202213971616,38.89306238822864,0 15.51070467692896,39.94117920852829,0 13.01031845351536,41.24375333406493,0 11.13135556698132,42.43338579852099,0 9.753611504109134,43.98601453032179,0 8.612861354146412,44.68587590509162,0 7.84985287896983,47.71695404780914,0 8.205598009796217,48.98811875897056,0 6.402396100744578,49.43824091552712,0 6.024047476668573,51.9450797817648,0 3.487848212015627,51.77291424315038,0 0.984574067201287,49.93425190229324,0 -0.4056528781339808,49.34703843522933,0 -1.884901161336625,49.89303232747373,0 -1.308705622440354,48.62313322232401,0 -3.363834185964434,48.9165353648367,0 -4.667846467216009,48.52359134236237,0 -4.336867907022199,47.97375931938766,0 -2.22858842866711,47.29089434344279,0 -0.9385524371043719,45.30255800809898,0 -1.494343444189173,43.5311240347239,0 -1.294577202895724,42.41093280387614,0 0.1754490878974169,41.80331459379222,0 -1.020205367915301,41.48256719483415,0 -4.764091173190742,42.35060001411745,0 -5.883556051601955,41.38745276443386,0 -7.425159492966985,42.60156976813968,0 -8.020989930073487,43.6045502987451,0 -9.243029538329914,43.05553395647235,0 -8.671764498277664,41.01768333996529,0 -9.534540269274327,38.65757183447118,0 -8.841154194732598,38.38202791935856,0 -8.996537054075112,36.96447114723048,0 -7.837808877873234,36.96614771328876,0 -7.248111961908315,37.18497707061115,0 -6.411690782144419,36.82125064008275,0 -5.946622425727933,35.94844688245765,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Roman Empire 44 BC</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							34.59811220808762,35.69847787584574,0 33.48400037996431,35.33621369296455,0 32.98767189296424,35.33402004843149,0 32.82368790547431,35.11152766918752,0 32.59796598487647,35.14676097314663,0 32.26509110267429,35.00093723558894,0 32.66788783567546,34.60013946993691,0 33.09151425589027,34.61421386781491,0 33.61502293130397,34.77492596087149,0 34.06699699773097,34.97888606233334,0 33.95177087237271,35.18639256114341,0 34.59811220808762,35.69847787584574,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Roman Empire 44 BC</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							23.76222576243318,35.68346821885186,0 23.57850389119847,35.58600189632553,0 23.57194477164796,35.24959792818412,0 24.26283474243143,35.17199669823624,0 24.72746492033967,35.08998553260223,0 24.69452998932735,34.98048546433228,0 25.64733029498296,34.95397257495214,0 26.19977338502072,34.99998870344946,0 26.32621742880353,35.29363519745879,0 25.8588225726131,35.14559049995077,0 25.78423536020991,35.27076429511336,0 24.93369326552118,35.38041707331228,0 24.17621304730936,35.36123542157147,0 24.16090613295891,35.53314014335653,0 23.76222576243318,35.68346821885186,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
