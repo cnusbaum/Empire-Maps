@@ -21,7 +21,7 @@ function initialize_map() {
 		
 	// default map options
 	var myOptions = {
-		zoom: 5,
+		zoom: 7,
 		center: latLong,
 		mapTypeId: google.maps.MapTypeId.TERRAIN
 	};
@@ -29,34 +29,19 @@ function initialize_map() {
 	//create a new map instance for the #map_canvas element
 	map = new google.maps.Map(document.getElementById("map_canvas"),
 		myOptions);
-		
-	var ctaLayer = new google.maps.KmlLayer('http://www.pixelrex.com/maps/roman/100bc.kml');
-	ctaLayer.setMap(map);
 }
 
-function loadTime() {
-	console.log('test');
+function loadTime() { 
 	
-	var countryLink = $(this).attr('title');
+	var countryLink = $(this).attr('title'), 
+	civilizationDirectory = $(this).parent('#navList li').attr('id'),
+	ctaLayer = new google.maps.KmlLayer('http://www.pixelrex.com/maps/' + civilizationDirectory + '/' + countryLink + '.kml');
+	
+	ctaLayer.setMap(map);
+	
+	console.log(civilizationDirectory);
 
-	$.ajaxSetup({
-		global: false,
-		type: "GET",
-		dataType: 'xml',
-	 });
-
-	$.ajax({
-		url: "/maps/roman/44bc.kml",
-		context: '#map_canvas',
-		success: function(){
-			console.log('success');
-			//var ctaLayer = new google.maps.KmlLayer('http://empiremaps.local/maps/roman/44bc.kml');
-			//ctaLayer.setMap(map);
-	  	}
-	});
-
-};
-
+}
 
 
 

@@ -39,6 +39,8 @@
 		<div id="container">
 			<header class="clearfix">
 				<div id="logo"><span class="logoFirst">Empire</span><span class="logoLast">Maps</span></div>
+				'Those who cannot remember the past are condemned to repeat it.'
+								<br>~ George Santayana
 			</header>
 
 			<div id="main">
