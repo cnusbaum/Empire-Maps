@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>218bc.kml</name>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0066ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000066</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0066ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000066</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0066ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000066</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0066ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000066</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0066ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000066</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0066ff</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>4d000066</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Rome 218 BC</name>
+		<description>Roman Republic at the begining of the Second Punic War</description>
+		<Placemark>
+			<name>Roman Empire 100 BC</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							8.375746757605501,40.22236352610182,0 8.215854442566622,39.25356269894083,0 8.557393567467699,38.86394130902854,0 9.533407493320089,39.05303230757023,0 9.903662940537515,40.58673126450932,0 9.368696489296378,41.29251680368579,0 8.07355137060922,41.07519342283211,0 8.375746757605501,40.22236352610182,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Roman Empire 100 BC</name>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							9.362656579135923,42.98118520852174,0 8.654856443915586,42.64055090258743,0 8.632883152772788,41.78755248216552,0 9.166000116111157,41.3478137899335,0 9.677621280264681,42.07300747831653,0 9.362656579135923,42.98118520852174,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Roman Empire 100 BC</name>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							9.753611504109134,43.98601453032179,0 11.13135556698132,42.43338579852099,0 13.01031845351536,41.24375333406493,0 15.51070467692896,39.94117920852829,0 16.0202213971616,38.89306238822864,0 15.57194503173921,38.38111452159721,0 13.88450714912814,38.01354092013409,0 12.85209107704649,38.14469409425531,0 12.33551617457234,37.71561290180991,0 14.99426656928012,36.62766155430656,0 15.25318494279243,36.93859876574228,0 15.44895878898619,37.82532959940017,0 16.00914057907329,37.85479089710265,0 17.28949745583276,39.02790004064106,0 17.0456498511304,39.36380292902225,0 16.58140455147289,39.63628777042279,0 16.96069462619676,40.35246677737662,0 18.38651583440716,39.88235490301066,0 18.3377469521011,40.28266673667711,0 16.03404773546147,41.43826628415223,0 16.02591638815725,41.89979184219939,0 15.45970320961406,41.97713246695184,0 13.69642007233238,43.54411696261872,0 12.68276485434383,44.08965680591245,0 12.4623450286675,44.91490744412758,0 13.55054725542961,45.63941216476933,0 13.98644728298789,44.73647914333176,0 15.08165262119512,43.96673164552421,0 15.12377648857581,44.63350006229358,0 14.29384659046119,45.3331502399972,0 13.95654876623649,44.82270494189087,0 13.40882794824449,45.6408647928512,0 13.60116558769637,46.77946073483467,0 11.7986529113029,46.53956001014156,0 10.19208035125074,46.69412546391148,0 10.43692647932244,45.45574871500318,0 11.57164135205611,43.82005034322297,0 9.753611504109134,43.98601453032179,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
