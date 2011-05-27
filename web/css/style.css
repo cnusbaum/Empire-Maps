@@ -237,7 +237,7 @@ body {
 }
 
 #container { 
-	width: 100%;
+	width: 960px;
 	margin: 0 auto;
 	text-align: left;
 }
@@ -271,11 +271,20 @@ header {
 
 
 #map_canvas { 
-	width: 80%;
+	width: 760px;
 	height: 400px;
 }
 
+#navList { 
+	width: 200px;
+	float: left;
+}
 
+#navList div {
+	float: left;
+	margin: 10px;
+	width: 50%;
+}
 
 
 

@@ -8,7 +8,6 @@ overlayArray = [];
 //initialize map
 function initialize_map(overlayArray) {
 
-	
 	//set starting point for map
 	var latLong = new google.maps.LatLng(41.914541, 12.458496);
 
@@ -21,8 +20,6 @@ function initialize_map(overlayArray) {
 
 	//create a new map instance for the #map_canvas element
 	map = new google.maps.Map(document.getElementById("map_canvas"),myOptions);
-	
-	//overlayArray;
 
 } //initialize_map
 
@@ -32,7 +29,7 @@ function overlayAdd(overlayArray) {
 				overlayArray[i].setMap(map);
 			} //end for
 	}// end if
-}
+}// end overlayAdd
 
 
 function deleteOverlays(overlayArray) {
@@ -50,28 +47,25 @@ $(document).ready(function() {
 
 	$('input').live('click', function() {
 
-		if (overlayArray) {
+		if (overlayArray.length) {
 			for (i in overlayArray) {
+				//clear all of the overlays
 				overlayArray[i].setMap(null);
 			} //end for
+			//clear out array
 			overlayArray.length = 0;
 		} //end if
 
-		//get all checkboxes
-		//var checkBoxList = document.getElementsByTagName('input');
-		var checkBoxList = $('li input[type=checkbox]:checked').get();
-			console.log(checkBoxList);
-		//add a new KML Layer for every check box that is checked
-		for (var i = 0, ii = checkBoxList.length ; i < ii; i++ ) {
-			//get the value of the clicked element
-			var countryLink = checkBoxList[i].value,
-			//creates new instance of overlay
-			empireName = checkBoxList[i].attr('id'),
-			
+		//loop through each checked element and display map
+		$('li input[type=checkbox]:checked').each(function() {
+			var countryLink = $(this).attr('value'),
+			empireName = $(this).parents('div').attr('id'),
 			boundryLayer = new google.maps.KmlLayer('http://www.pixelrex.com/maps/' + empireName + '/' + countryLink + '.kml');
 			//adds
 			overlayArray.push(boundryLayer);
-		}
+		
+		});// end each
+
 
 		overlayAdd(overlayArray);
 
