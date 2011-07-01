@@ -11,7 +11,7 @@
 	<div id="roman">
 		<a href="#" class="parent">Roman Empire</a>
 		<ul>
-			<li><input type="checkbox" value="218bc"> 218 BCCC</li>
+			<li><input type="checkbox" value="218bc"> 218 BC</li>
 			<li><input type="checkbox" value="100bc"> 100 BC</li>
 			<li><input type="checkbox" value="44bc"> 44 BC</li>
 			<li><input type="checkbox" value="14ad"> 14 AD</li>
