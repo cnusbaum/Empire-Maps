@@ -4,7 +4,7 @@
 * Project to display different maps and information over time that correspond to specific civilizations in history.
 * Project is a exercise to work with Google Maps, javascript, and eventually tying in a DB
 
-#### Project Build Phases
+#### Project Build Phases asdoasiodaoisd
 <ol>
 	<li>Build initial map and hook it up to sample data*</li>
 	<li>Extend sample to work with multiple civilizations</li>
